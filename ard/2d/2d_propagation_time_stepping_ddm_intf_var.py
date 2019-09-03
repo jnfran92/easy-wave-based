@@ -7,6 +7,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 from ard.dct.dct_2d_processor import ArdDct2D
+plt.ion()
 
 
 def gaussian(x, mu, sig):

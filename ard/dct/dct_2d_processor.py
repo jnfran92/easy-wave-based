@@ -1,10 +1,8 @@
 
 import numpy as np
-from numpy.linalg import inv
 
 
 class ArdDct2D:
-
     c_matrix_x = []
     c_matrix_y = []
     x_size = 0
