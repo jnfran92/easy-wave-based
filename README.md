@@ -1,4 +1,3 @@
-# Wave Based Methods
 
 <img src="https://media.giphy.com/media/Us5o0Ff0NMCK35qvhr/giphy.gif" alt="easy-wave-based">
 
