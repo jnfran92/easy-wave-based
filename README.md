@@ -9,3 +9,5 @@ A collection of pythonized wave-base methods :sound: .
 - **PSTD** Pseudo-spectral Time Domain Methods __(not yet)__
 
 Easy implementation, easy to use :rabbit2:.
+
+## Guide
