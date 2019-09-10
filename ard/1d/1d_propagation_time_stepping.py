@@ -9,7 +9,7 @@ from numpy.linalg import inv
 from scipy.fftpack import idct, dct
 
 #   Parameters
-from dct.dct_1d_processor import ArdDct1D
+from ard.dct.dct_1d_processor import ArdDct1D
 
 
 def gaussian(x, mu, sig):
@@ -18,7 +18,7 @@ def gaussian(x, mu, sig):
 
 c = 342  # speed of sound
 lx = 342/4  # length in meters
-t = 1   # time in seconds
+t = 0.25   # time in seconds
 
 # TIME
 Fs_t = 8000    # samples/second time is dependent of space
